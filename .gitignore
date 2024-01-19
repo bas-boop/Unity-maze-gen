@@ -111,3 +111,6 @@ Desktop.ini
 .idea/.idea.Platypus game/.idea/indexLayout.xml
 .idea/.idea.Platypus game/.idea/encodings.xml
 *.xml
+
+/[Aa]ssets/TextMesh Pro
+**/.idea
